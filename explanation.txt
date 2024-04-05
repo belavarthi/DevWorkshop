@@ -1,0 +1,1 @@
+I was having trouble with the installation of the packages. I previously had these installed for work over the summer, but there are some permission errors I keep getting.
