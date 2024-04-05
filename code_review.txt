@@ -1,0 +1,26 @@
+1.
+Yelp: choose the approriate code reviewer, maintain communication, ensure code is well-tested
+Microsoft: focuses on countering pull request errors, "respect and learn from others mistakes", focus on code flaws,
+not personal crituque, clear communication.
+
+Both emphasize clear communication and providing context for changes.
+They stress the importance of maintaining code quality and testing.
+Yelp provides detailed instructions on preparing code and selecting reviewers, 
+while Microsoft highlights the resolution of common issues and promotes a positive, 
+respectful review culture.
+Microsoft uses an innovative "Emoji Code" to clarify feedback
+
+2.
+https://smartbear.com/learn/code-review/best-practices-for-peer-code-review/#:~:text=Review%20fewer%20than%20400%20lines%20of%20code%20at%20a%20time,-A%20SmartBear%20study&text=The%20brain%20can%20only%20effectively,70%2D90%25%20defect%20discovery.
+Correctness and efficiency of the code.
+Code maintainability and readability.
+Adequacy of test coverage and documentation.
+Alignment with project coding standards and guidelines.
+
+
+3.
+https://medium.com/transparent-data-eng/good-and-bad-code-review-examples-219c0024e6b0
+providing vague feedback without clear examples or suggestions for improvement.
+focuses on criticism without offering constructive advice or alternatives.
+Fails to consider the project's specific requirements, constraints, or coding standards, 
+leading to irrelevant suggestions.
