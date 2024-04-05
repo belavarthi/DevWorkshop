@@ -1,0 +1,4 @@
+I tried to download the packages using brew install wget etc. I was able to 
+download wget but it took 30 mins to install and when run in the docable
+it did not work. I have screenshot proof of installation along with the time that
+it took to install.
